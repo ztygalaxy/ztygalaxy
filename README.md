@@ -7,3 +7,4 @@ I'm ztygalaxy, a Java development engineer.
 - ⚡ Fun fact: My weight is about to break 75 kg.
 - 🏠 Blog: [ztygalaxy's Blog](https://tyzhang.top/)
 
+![](https://pic.tyzhang.top/images/2020/07/22/dino.gif)
