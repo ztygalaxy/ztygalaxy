@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm ztygalaxy, a Android development engineer.
+I'm ztygalaxy, an Android development engineer.
 
 - 🔭 I’m currently studying in Hangzhou.
 - 📫 How to reach me: [i@tyzhang.top](mailto:i@@tyzhang.top)
