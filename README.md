@@ -3,6 +3,7 @@
 I'm ztygalaxy, an Android development engineer.
 
 - 🔭 I’m currently working in ByteDance, Shanghai.
-- 📫 How to reach me: [i@tyzhang.top](mailto:i@@tyzhang.top)
-- ⚡ Fun fact: My weight dropped from 75 kg to 66 kg.
+- 📫 How to reach me: [zhangty1996@163.com](mailto:zhangty1996@163.com)
+- ⚡ Fun fact: I found my own handful of candy.
 - 🏠 Blog: [ztygalaxy's Blog](https://tyzhang.top/)
+
