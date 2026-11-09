@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/profile-banner.jpg" width="960" alt="Misty sunrise over a rural field, with birds above the trees and a farmer driving a tractor">
+</div>
+
 ### Hello 👋
 
 I'm ztygalaxy, an Android development engineer.
